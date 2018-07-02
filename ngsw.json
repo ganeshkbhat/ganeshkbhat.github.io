@@ -1,0 +1,113 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/index.html",
+        "/main.d435012f08a5ee944c76.js",
+        "/polyfills.5a0a464f4a0c614c3e4d.js",
+        "/runtime.6afe30102d8fe7337431.js",
+        "/styles.0ef05914ad0c12011536.css",
+        "/vendor.75edb63d6e2eb991c96e.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/config/landingpage-sample.txt",
+        "/assets/config/settings.json",
+        "/assets/css/landing-styles.css",
+        "/assets/img/edit.svg",
+        "/assets/img/img_mountains_wide.jpg",
+        "/assets/img/logo.png",
+        "/assets/img/menuicon.svg",
+        "/assets/img/new-file-1.svg",
+        "/assets/img/new-file-3.svg",
+        "/assets/img/new-file.svg",
+        "/assets/img/search.svg",
+        "/assets/img/test-one.jpg",
+        "/assets/img/test-two.jpg",
+        "/assets/mddocs/brandname.md",
+        "/assets/mddocs/building.md",
+        "/assets/mddocs/config.md",
+        "/assets/mddocs/credits.md",
+        "/assets/mddocs/design.md",
+        "/assets/mddocs/error.md",
+        "/assets/mddocs/footer.md",
+        "/assets/mddocs/genmd.md",
+        "/assets/mddocs/genrst.md",
+        "/assets/mddocs/home.md",
+        "/assets/mddocs/intro.md",
+        "/assets/mddocs/mdgen.md",
+        "/assets/mddocs/search.md",
+        "/assets/mddocs/sidebar.md",
+        "/assets/mddocs/topnav.md",
+        "/assets/scripts/search-worker.js"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/config/landingpage-sample.txt": "55bfc7a660941487ba9d945c0110fa223986a177",
+    "/assets/config/settings.json": "14ee919c8bec0c831524371485bcf3642a1a9b2b",
+    "/assets/css/landing-styles.css": "a112687afc499cdc66c291eb11ecee3dcf102096",
+    "/assets/img/edit.svg": "d1376e982a8301bab5d57497bb46d2cd2cc1eed9",
+    "/assets/img/img_mountains_wide.jpg": "ba24063ab957514db1bb14df55a5aed5248a01d6",
+    "/assets/img/logo.png": "cd5d67841734e0aa42df68d8189f78f1a1e06968",
+    "/assets/img/menuicon.svg": "7f59fa656078432a519ecf009ca2163809f08f73",
+    "/assets/img/new-file-1.svg": "0357b8b60060dc1891ef29d502c8978674268752",
+    "/assets/img/new-file-3.svg": "db1afd358c3572c47ec6df43a354adc6521bd6a9",
+    "/assets/img/new-file.svg": "08c4fe2e31dd8e683c2380bbc66c116100085ad6",
+    "/assets/img/search.svg": "7b0435afe7ba04d52e9807b15ebf78687a66d438",
+    "/assets/img/test-one.jpg": "a4b18c2112733be9c947c8a03a967fd0241011ee",
+    "/assets/img/test-two.jpg": "bfed14f9419d4bca8dda52ed9b859033740968fc",
+    "/assets/mddocs/brandname.md": "a80c43a33db1a6f0ff82917e094156d95dbaf592",
+    "/assets/mddocs/building.md": "d2508890574475754fefd1e7bfcd4cfee14bee19",
+    "/assets/mddocs/config.md": "9819ea69acf55a872e721a9f333dae07db555d5c",
+    "/assets/mddocs/credits.md": "fa3199e5fc3f56040a714f6b33be6d2ccbedc8ee",
+    "/assets/mddocs/design.md": "59ff86227d0ae63dd25552da34b78608c546b13f",
+    "/assets/mddocs/error.md": "25c8418ad20d8ff6a7c1937eea99aa57a13f8ca3",
+    "/assets/mddocs/footer.md": "749d4f8846371720ced28b5362a21b2fa8737cab",
+    "/assets/mddocs/genmd.md": "42cd9f1b798c59eb78dd136628a48d455f698375",
+    "/assets/mddocs/genrst.md": "37bfc8d4bacdf5edf81a2f570f5ba1f8ee7f5d89",
+    "/assets/mddocs/home.md": "1ae5adb4418b4b947572a791bb1e9f5af0dfd43d",
+    "/assets/mddocs/intro.md": "72f6af6dcf6434e43b4fffd4b21da483b2a2a6ca",
+    "/assets/mddocs/mdgen.md": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/mddocs/search.md": "bdf6ed2c08e050e67608e93808c6b879d87e4f6e",
+    "/assets/mddocs/sidebar.md": "377052befcb244945eda440daea4fe54951ea226",
+    "/assets/mddocs/topnav.md": "7f3840c22dc8a6e242aa6205428526c5ca1e70b8",
+    "/assets/scripts/search-worker.js": "9fa992569b727afa35a195a7f31ca46368b719a4",
+    "/index.html": "c3c8329c220337d14cc20c9234ea660985cdee4a",
+    "/main.d435012f08a5ee944c76.js": "43685a0ed8ab41ccabfac03a24af32199758241f",
+    "/polyfills.5a0a464f4a0c614c3e4d.js": "0add33dab93227ce8d354ff29a0f065e577ed67b",
+    "/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "/styles.0ef05914ad0c12011536.css": "39ccdde540e95826a9f8f1d156ca0c9f4559de55",
+    "/vendor.75edb63d6e2eb991c96e.js": "96d6386795680845f8f8ee8884241bb2d584f71e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
+    }
+  ]
+}
