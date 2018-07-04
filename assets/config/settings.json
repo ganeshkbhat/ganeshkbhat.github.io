@@ -19,7 +19,7 @@
                 {"title": "Simpler Search", "description" : "Simple keyword occurance based search that fits documentation sites better. Search will be improved sooner.", "url": "/"},
                 {"title": "Configure & Deploy", "description" : "Just configure the home page, top navigation, sidebar links, and footer links in one settings file; and deploy to host", "url": "/"},
                 {"title": "Custom Router", "description" : "A custom router that works even on HTML only hosts like Github pages or Gitlab pages like a Single page application", "url": "/"},
-                {"title": "Extendable", "description" : "Easily extendable, themable. Simple structure anyone can extend.", "url": "/"},
+                {"title": "Extendable", "description" : "Easily extendable, themable. Simple structure any can extend.", "url": "/"},
                 {"title": "Made with Angular", "description" : "Managed dependencies and packages. Made with Angular", "url": "/"}
             ]
         }
