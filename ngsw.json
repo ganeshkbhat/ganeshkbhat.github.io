@@ -11,7 +11,7 @@
         "/main.9919d9f59341eddd7222.js",
         "/polyfills.016be5d6f3c6773326d2.js",
         "/runtime.6afe30102d8fe7337431.js",
-        "/styles.766cf0b044fecbce9427.css",
+        "/styles.df72869d8b19b5e3a7d1.css",
         "/vendor.75edb63d6e2eb991c96e.js"
       ],
       "patterns": []
@@ -80,18 +80,18 @@
     "/assets/mddocs/genmd.md": "200cfb03a0e4d2c38591ac6e834fa5dfbf131656",
     "/assets/mddocs/genrst.md": "37bfc8d4bacdf5edf81a2f570f5ba1f8ee7f5d89",
     "/assets/mddocs/home.md": "1ae5adb4418b4b947572a791bb1e9f5af0dfd43d",
-    "/assets/mddocs/intro.md": "72f6af6dcf6434e43b4fffd4b21da483b2a2a6ca",
+    "/assets/mddocs/intro.md": "71a3cca4b7317847e94f528696122077d0d96e6e",
     "/assets/mddocs/mdgen.md": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "/assets/mddocs/search.md": "bdf6ed2c08e050e67608e93808c6b879d87e4f6e",
     "/assets/mddocs/sidebar.md": "377052befcb244945eda440daea4fe54951ea226",
     "/assets/mddocs/topnav.md": "7f3840c22dc8a6e242aa6205428526c5ca1e70b8",
     "/assets/scripts/pseudo-worker.polyfill.js": "1fe0d7f658d8c976542d93efde96f6ad43c2d641",
     "/assets/scripts/search-worker.js": "9fa992569b727afa35a195a7f31ca46368b719a4",
-    "/index.html": "e7078d64522dc511edfb2a18639226693598e668",
+    "/index.html": "a67b695c5fbe6bf57a39f501892795f651fa2564",
     "/main.9919d9f59341eddd7222.js": "0d6306360f95e25ac083a020ce11faaecbe8579b",
     "/polyfills.016be5d6f3c6773326d2.js": "c3a64d0397f2434e2633b2075fd030eb3bcceaa7",
     "/runtime.6afe30102d8fe7337431.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/styles.766cf0b044fecbce9427.css": "a595242f49700b85afb1b6c2792b1160c803765e",
+    "/styles.df72869d8b19b5e3a7d1.css": "a595242f49700b85afb1b6c2792b1160c803765e",
     "/vendor.75edb63d6e2eb991c96e.js": "96d6386795680845f8f8ee8884241bb2d584f71e"
   },
   "navigationUrls": [
