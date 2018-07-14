@@ -1,5 +1,3 @@
-importScripts('serviceworker-worker-cache.js');
-
 (function () {
 'use strict';
 

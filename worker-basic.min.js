@@ -8,8 +8,6 @@
 
 // tslint:disable:no-console
 
-importScripts('serviceworker-worker-cache.js');
-
 self.addEventListener('install', event => { self.skipWaiting(); });
 
 self.addEventListener('activate', event => {
