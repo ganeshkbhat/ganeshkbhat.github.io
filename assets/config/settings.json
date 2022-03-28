@@ -86,14 +86,17 @@
             },
             {
                 "tag": "Follow me on Medium Blogs",
+                "type": "external",
                 "link": "https://medium.com/@ganeshsurfs"
             },
             {
                 "tag": "Follow me on Twitter",
+                "type": "external",
                 "link": "https://www.twitter.com/_ganeshb_"
             },
             {
                 "tag": "Follow me Stackoverflow",
+                "type": "external",
                 "link": "https://stackoverflow.com/users/3204942/gary"
             }
         ]
