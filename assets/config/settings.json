@@ -125,10 +125,6 @@
                 "tag": "Github",
                 "type": "external",
                 "link": "https://github.com/ganeshkbhat"
-            },{
-                "tag": "Cloning Site Repo",
-                "type": "internal",
-                "link": "https://github.com/ngDocumentor/ngDocumentor.github.io"
             }
         ]
     },
