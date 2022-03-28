@@ -76,11 +76,6 @@
                     },{
                         "tag": "Fast Prime number calculations",
                         "link": "/fastprimecalculations"
-                    },
-                    {
-                        "tag": "Contact",
-                        "type": "external",
-                        "link": "https://github.com/ganeshkbhat"
                     }
                 ]
             },
@@ -95,9 +90,14 @@
                 "link": "https://www.twitter.com/_ganeshb_"
             },
             {
-                "tag": "Follow me Stackoverflow",
+                "tag": "Follow me on Stackoverflow",
                 "type": "external",
                 "link": "https://stackoverflow.com/users/3204942/gary"
+            },
+            {
+                "tag": "Follow me on Github",
+                "type": "external",
+                "link": "https://github.com/ganeshkbhat"
             }
         ]
     },
