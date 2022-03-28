@@ -12,36 +12,31 @@
             "buttonurl": "/intro"
         },
         "blocks": {
-            "heading": "ngDocumentor features flexibility for your documentation or your Site",
+            "heading": "Here is a quick read about what I am working on right now",
             "items": [
-                {"title": "Reuse Markdown", "description" : "Use your markdown readme files to create the documentation site.", "url": "/"},
-                {"title": "Offline Support", "description" : "Basic offline support / PWA using service workers. May need rebuilding.", "url": "/"},
-                {"title": "Simpler Search", "description" : "Simple keyword occurance based search that fits documentation sites better. Search will be improved sooner.", "url": "/"},
-                {"title": "Configure & Deploy", "description" : "Just configure the home page, top navigation, sidebar links, and footer links in one settings file; and deploy to host", "url": "/"},
-                {"title": "Custom Router", "description" : "A custom router that works even on HTML only hosts like Github pages or Gitlab pages like a Single page application", "url": "/"},
-                {"title": "Extendable", "description" : "Easily extendable, themable. Simple structure any can extend.", "url": "/"},
-                {"title": "Made with Angular", "description" : "Managed dependencies and packages. Made with Angular", "url": "/"}
+                {"title": "Personal Profile", "description" : "What I am working on right now.", "url": "/profile"},
+                {"title": "Projects", "description" : "Projects I am working on or maintaining right now.", "url": "/projects"}
             ]
         }
     },
     "topnav": {
-        "brandname": " { ngDocumentor } ",
+        "brandname": " { Ganesh K Bhat } ",
         "logo": "/assets/img/logo.png",
         "nav": [
             {
-                "tag": "Getting Started",
+                "tag": "Personal Profile",
                 "type": "internal",
-                "link": "/intro"
+                "link": "/profile"
             },
             {
-                "tag": "Config .json Files",
+                "tag": "Projects",
                 "type": "internal",
-                "link": "/config"
+                "link": "/projects"
             },
             {
                 "tag": "Github",
                 "type": "external",
-                "link": "https://github.com/ngDocumentor/ngDocumentor"
+                "link": "https://github.com/ganeshkbhat"
             }
         ]
     },
@@ -52,107 +47,62 @@
                 "link": "/"
             },
             {
-                "tag": "Getting Started - 10 Mins",
-                "link": "/intro"
+                "tag": "Personal Profile",
+                "link": "/profile"
             },
             {
-                "tag": "Configuration/Definitions",
+                "tag": "Projects",
                 "children": [
                     {
                         "tag": "Introduction",
-                        "link": "/config"
+                        "link": "/projects"
                     },
                     {
-                        "tag": "Landing Page",
-                        "link": "/landing"
+                        "tag": "ngDocumentor",
+                        "link": "/ngdocumentor"
                     },
                     {
-                        "tag": "Top Navigation",
-                        "link": "/topnav"
+                        "tag": "taskcontrols",
+                        "link": "/taskcontrols"
                     },
                     {
-                        "tag": "SideBar Navigation",
-                        "link": "/sidebar"
+                        "tag": "cgi-js",
+                        "link": "/cgijs"
                     },
                     {
-                        "tag": "Footer Navigation",
-                        "link": "/footer"
+                        "tag": "desktop-cgi",
+                        "link": "/desktopcgi"
+                    },{
+                        "tag": "Prime number calculations",
+                        "link": "/fastprimecalculations"
                     },
                     {
-                        "tag": "Search",
-                        "link": "/searchdef"
-                    },
-                    {
-                        "tag": "Brand Name / Logo",
-                        "link": "/brandname"
+                        "tag": "Contact",
+                        "type": "external",
+                        "link": "https://github.com/ganeshkbhat"
                     }
                 ]
             },
             {
-                "tag": "Building / Offline Viewing",
-                "link": "/building"
+                "tag": "Follow me on Medium Blogs",
+                "link": "https://medium.com/@ganeshsurfs"
             },
             {
-                "tag": "App Design",
-                "link": "/design"
+                "tag": "Follow me on Twitter",
+                "link": "https://www.twitter.com/_ganeshb_"
             },
             {
-                "tag": "Search Functionality",
-                "link": "/search"
-            },
-            {
-                "tag": "Resources",
-                "children": [
-                    {
-                        "tag": "Clone Site Files - Github",
-                        "type": "external",
-                        "link": "https://github.com/ngDocumentor/ngDocumentor.github.io"
-                    },
-                    {
-                        "tag": "Report Issues",
-                        "type": "external",
-                        "link": "https://github.com/ngDocumentor/ngDocumentor.github.io/issues"
-                    },
-                    {
-                        "tag": "Development Branch - Github",
-                        "type": "external",
-                        "link": "https://github.com/ngDocumentor/ngDocumentor"
-                    },
-                    {
-                        "tag": "Contribute / Pull Requests",
-                        "type": "external",
-                        "link": "https://github.com/ngDocumentor/ngDocumentor/issues"
-                    },
-                    {
-                        "tag": "Generate .md Docs",
-                        "link": "/genmd"
-                    },
-                    {
-                        "tag": "Generate .rst Docs (todo)",
-                        "link": "/genrst"
-                    },
-                    {
-                        "tag": "App Todo",
-                        "link": "/todo"
-                    },
-                    {
-                        "tag": "App Plans",
-                        "link": "/plans"
-                    }
-                ]
-            },
-            {
-                "tag": "Team & Credits",
-                "link": "/credits"
+                "tag": "Follow me Stackoverflow",
+                "link": "https://stackoverflow.com/users/3204942/gary"
             }
         ]
     },
     "footer": {
         "copyright": {
             "tag": " { ngDocumentor } ",
-            "link": "/home",
+            "link": "https://github.com/ngDocumentor/ngDocumentor",
             "type": "external",
-            "text": "ngDocumentor is a simple markdown rendering site framework that works even on HTML only hosts like github pages"
+            "text": "Made with ngDocumentor"
         },
         "nav": [
             {
@@ -162,16 +112,6 @@
                         "tag": "Home",
                         "type": "internal",
                         "link": "/home"
-                    },
-                    {
-                        "tag": "Getting Started",
-                        "type": "internal",
-                        "link": "/intro"
-                    },
-                    {
-                        "tag": "Github",
-                        "type": "external",
-                        "link": "https://github.com/ngDocumentor/ngDocumentor"
                     }
                 ]
             },
@@ -182,16 +122,6 @@
                         "tag": "Top Nav",
                         "type": "internal",
                         "link": "/topnav"
-                    },
-                    {
-                        "tag": "Sidebar Nav",
-                        "type": "internal",
-                        "link": "/sidebar"
-                    },
-                    {
-                        "tag": "Footer Nav",
-                        "type": "internal",
-                        "link": "/footer"
                     }
                 ]
             },
@@ -202,16 +132,6 @@
                         "tag": "App Design",
                         "type": "internal",
                         "link": "/design"
-                    },
-                    {
-                        "tag": "Search Feature",
-                        "type": "internal",
-                        "link": "/search"
-                    },
-                    {
-                        "tag": "Github",
-                        "type": "external",
-                        "link": "https://github.com/ngDocumentor/ngDocumentor"
                     }
                 ]
             },
@@ -222,40 +142,27 @@
                         "tag": "Cloning Site Repo",
                         "type": "internal",
                         "link": "https://github.com/ngDocumentor/ngDocumentor.github.io"
-                    },
-                    {
-                        "tag": "Building",
-                        "type": "internal",
-                        "link": "/building"
-                    },
-                    {
-                        "tag": "Development/Build Repo",
-                        "type": "external",
-                        "link": "https://github.com/ngDocumentor/ngDocumentor"
                     }
                 ]
             }
         ],
         "social": [
             {
-                "tag": "Google +",
-                "type": "internal",
-                "link": "/intro"
+                "tag": "Follow me on Medium Blogs",
+                "link": "https://medium.com/@ganeshsurfs"
             },
             {
-                "tag": "Twitter",
-                "type": "internal",
-                "link": "/intro"
+                "tag": "Follow me on Twitter",
+                "link": "https://www.twitter.com/_ganeshb_"
             },
             {
-                "tag": "Facebook",
-                "type": "internal",
-                "link": "/intro"
+                "tag": "Follow me Stackoverflow",
+                "link": "https://stackoverflow.com/users/3204942/gary"
             },
             {
                 "tag": "Github",
                 "type": "external",
-                "link": "https://github.com/ngDocumentor/ngDocumentor"
+                "link": "https://github.com/ganeshkbhat"
             }
         ]
     },
