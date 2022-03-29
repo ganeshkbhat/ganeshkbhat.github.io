@@ -1,7 +1,4 @@
-# Getting started
-
-
-### { Ganesh Bhat }
+# { Ganesh Bhat }
 
 Ganesh comes with fair experience in multiple domains and skills. Ganesh has worked as a planner, implementor, and transition specialist in different domains creating nice value adds. Not to forget Ganesh has his own learnings and has learnt from different people during these strategic and non-strategic activities.
 
