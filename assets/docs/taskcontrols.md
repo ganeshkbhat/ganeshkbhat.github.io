@@ -11,3 +11,25 @@ Workflow Automation Library with support for Concurrent or Event based processes
 
 Read more about it here: [https://taskcontrols.github.io/](https://taskcontrols.github.io/) or [https://github.com/taskcontrols/py-taskcontrol](https://github.com/taskcontrols/py-taskcontrol)
 
+
+### Features
+
+* Create Named task controls (tasks) - instance isolated and shared
+* Allows creation of before / after middlewares for each task with access read-only contexts and results of middlewares/tasks
+* Allows merging two instances of taskcontrols with namespace clash handling
+* Run instance, shared, and mix of tasks (individual or all groups)
+* Allows working with Logging, Sockets, Events, Queues, etc
+* Allows working with Publisher-Subscriber Architectures, Client-Agent Architectures, Webhooks
+* In-Development:
+    - Allows support for / working with Concurrency
+    - Allows working with Commands & Scripts (T), SSH (T), etc
+    - Allows working with Scheduling (T), Files (T - normal, yaml, ini, and csv), etc
+    - Allows working with ORMs/Databases (T), Authentication (T)
+    - Allows creating, registering, and using tasks / workflows as a plugin
+    - Planned Integrations with Subversioning, Build Tools, Deployment
+    - Planned Integrations with Data Transformation / Analytics Tooling
+    - Planned Integrations with Testing, and Infrastructure Automation toolings
+    - Monitoring Support (T)
+    - Allows working with best practices like Dependency Injection (T) within the library (including Tasks, Workflow)
+    - Hooks support after dependency-injection package integration
+    - Provided in and Allows plugins support for Python, Javascript languages
