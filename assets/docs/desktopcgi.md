@@ -18,4 +18,6 @@ The script should pipe all interpreted language files below:
 * Aspx (Version Independent - With local IIS proxy, Apache embedded or proxy)
 * Any app using local / remote proxy
 
+#### [Actively Developed, Funding Invited]
+
 Read more about it here: [https://github.com/ganeshkbhat/desktop-cgi](https://github.com/ganeshkbhat/desktop-cgi)
