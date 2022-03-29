@@ -10,12 +10,12 @@ Desktop-CGI runs an Electron - Node - Express based application under the hood a
 
 The script should pipe all interpreted language files below:
 
-    Python (2.x, 3.x)
-    Perl (Version Independent)
-    PHP (Version Independent)
-    Ruby (Version Independent)
-    Jsp (With Tomcat embedded)
-    Aspx (Version Independent - With local IIS proxy, Apache embedded)
-    Any app using local / remote proxy
+* Python (2.x, 3.x)
+* Perl (Version Independent)
+* PHP (Version Independent)
+* Ruby (Version Independent)
+* Jsp (As proxy)
+* Aspx (Version Independent - With local IIS proxy, Apache embedded or proxy)
+* Any app using local / remote proxy
 
 Read more about it here: [https://github.com/ganeshkbhat/desktop-cgi](https://github.com/ganeshkbhat/desktop-cgi)
