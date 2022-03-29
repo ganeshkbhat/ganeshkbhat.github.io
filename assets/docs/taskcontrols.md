@@ -34,7 +34,7 @@ Read more about it here: [https://taskcontrols.github.io/](https://taskcontrols.
     - Hooks support after dependency-injection package integration
     - Provided in and Allows plugins support for Python, Javascript languages
 
-Here is a quick demo to uderstand the simplicity:
+Here is a quick demo to understand the simplicity:
 
 ```
 from taskcontrol import Workflow, task
