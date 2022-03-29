@@ -33,3 +33,23 @@ Read more about it here: [https://taskcontrols.github.io/](https://taskcontrols.
     - Allows working with best practices like Dependency Injection (T) within the library (including Tasks, Workflow)
     - Hooks support after dependency-injection package integration
     - Provided in and Allows plugins support for Python, Javascript languages
+
+Here is a quick demo to uderstand the simplicity:
+
+```
+from taskcontrol import Workflow, task
+
+sparrow = Workflow()
+
+@task(
+    name="migrate",
+    task_instance=sparrow
+)
+def fly(ctx, result, *args, **kwargs):
+    print("Running my task function: fly", args, kwargs)
+    return args, kwargs
+
+result = sparrow.start()
+print(result)
+
+```
