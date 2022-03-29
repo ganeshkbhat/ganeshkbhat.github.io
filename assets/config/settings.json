@@ -14,8 +14,8 @@
         "blocks": {
             "heading": "Here is a quick read about what I am working on right now",
             "items": [
-                {"title": "Personal Profile", "description" : "Take a look at my profile.", "url": "/profile"},
-                {"title": "Projects", "description" : "Projects I am working on or maintaining right now.", "url": "/projects"}
+                {"title": "Personal Profile", "description" : "Take a look at my profile.", "url": "https://ganeshkbhat.github.io/#/profile"},
+                {"title": "Projects", "description" : "Projects I am working on or maintaining right now.", "url": "https://ganeshkbhat.github.io/#/projects"}
             ]
         }
     },
